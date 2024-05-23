@@ -16,4 +16,4 @@ Then since the data was not labelled, therefore had to use unsupervised learning
 ![image](https://github.com/Bhavnoor-Coders-1010/PClub-CV-Submission/assets/73211684/3d7d0795-1024-405b-ae06-b3c582a5700b)
 ![image](https://github.com/Bhavnoor-Coders-1010/PClub-CV-Submission/assets/73211684/67c1d613-92c5-4c82-b3ce-c9b9f02e7b78)
 
-link to google collab: https://colab.research.google.com/drive/13uus7mpwP6KSH9te9w8qVDDTFJATrzVA?usp=sharing
+link to google collab: https://colab.research.google.com/drive/13uus7mpwP6KSH9te9w8qVDDTFJATrzVA?usp=sharing (it is suggested to use the google collab link for seeing outputs)
